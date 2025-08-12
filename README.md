@@ -2,9 +2,7 @@
 
 **Stop doomscrolling. Start building anything.**
 
-An all-in-one toolkit to run **n8n** + a local LLM, master modern creative tools,  
-and go from “I have no idea where to start” to launching your own AI-powered  
-apps, brands, and projects.
+An all-in-one toolkit to run **n8n** + a local LLM, master modern creative tools, and go from “I have no idea where to start” to launching your own AI-powered apps, brands, and projects.
 
 - [x] **Local Dev Stack** – Core tools for running the [n8n Self-Hosted AI Starter Kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) locally:
   - [Chocolatey](https://chocolatey.org), [Rancher Desktop](https://rancherdesktop.io), [Docker Compose](https://docs.docker.com/compose/), [VS Code](https://code.visualstudio.com), [Git](https://git-scm.com) 
